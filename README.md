@@ -41,6 +41,10 @@ YelpAI is built using the following technology stack:
 
 ### Demo Video 📹
 
+<video width="320" height="240" controls>
+  <source src="Video.mp4" type="video/mp4">
+</video>
+
 Check out our demo video to see YelpAI in action!
 
 ![](Video.mp4)
