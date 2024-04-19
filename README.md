@@ -43,5 +43,5 @@ YelpAI is built using the following technology stack:
 
 Check out our demo video to see YelpAI in action!
 
-![Demo](Video.mp4)
+![](Video.mp4)
 ![Image](thumbnail.png)
